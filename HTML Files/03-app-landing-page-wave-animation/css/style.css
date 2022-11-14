@@ -136,10 +136,10 @@
 
 :root {
     --light-purple: #F6F4FE;
-    --purple: #6A49F2;
-    --bg-purple: #6A49F2;
-    --dark-purple: #32236F;
-    --body-text-purple: #3E3F66;
+    --purple: #79D6C4;
+    --bg-purple: #79D6C4;
+    --dark-purple: #108AEF;
+    --body-text-purple: #108AEF;
     --text-white: #ffffff;
     --bg-white: #ffffff;
     --slider-dots-color: #D4D2DD;
@@ -409,7 +409,7 @@ header.fix_style {
     position: fixed;
     top: 0;
     backdrop-filter: blur(5px);
-    background-color: rgba(106, 73, 242, 0.9);
+    background-color:#79D6C4;
     padding: 15px 0;
     transition: none;
     opacity: 0;
@@ -648,7 +648,7 @@ header.fixed .navbar {
 .banner_section {
     padding-top: 180px;
     position: relative;
-    background: #6a49f2;
+    background: #79D6C4;
 }
 
 .banner_section .container {
