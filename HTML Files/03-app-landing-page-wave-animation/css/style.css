@@ -1965,7 +1965,7 @@ footer {
 }
 
 footer .top_footer {
-    background-color: #583BD3;
+    background-color: #1b60e6;
     padding: 180px 0 60px 0;
     position: relative;
     overflow: hidden;
@@ -2400,8 +2400,7 @@ header.fix_style.white_header {
 
 /* Bredcrumb Css Start */
 .bred_crumb {
-    background-image: url(../images/bread_crumb_bg.png);
-    /*background: var(--purple);*/
+    background: var(--purple);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
